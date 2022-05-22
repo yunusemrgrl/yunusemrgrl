@@ -6,7 +6,7 @@ This is the place where I opensource stuff  things
 
 - 🌱 I’m currently learning Javascript, React
 - 💬 Ask me about anything
-- 📫 How to reach me: "[yunusemregurlu@gmail.com](yunusemregurlu@gmail.com)"
+- 📫 How to reach me: "[yunusemregurlu@gmail.com](mailto:yunusemregurlu@gmail.com)"
 
 
 🔗  Connect with me
