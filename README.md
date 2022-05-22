@@ -12,7 +12,7 @@ This is the place where I opensource stuff  things
 🔗  Connect with me
 
 [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&labelColor=blue&logo=Linkedln&logoColor=white&link=link)](https://www.linkedin.com/in/yunusemregurlu/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=Twitter&logoColor=white&link=link)](https://twitter.com/NonlightAsqwe) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=Twitter&logoColor=white&link=link)](https://twitter.com/yunusemrgrl) 
 
 
 Do not forget to view my open source projects below 👇🏻
